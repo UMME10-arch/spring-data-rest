@@ -10,6 +10,8 @@ public class MyDataRestApplication {
 		SpringApplication.run(MyDataRestApplication.class, args);
 
                    int a = 100;
+
+                   double d = 15.9;
 	}
 
 }
