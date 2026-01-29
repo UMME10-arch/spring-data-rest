@@ -10,6 +10,9 @@ public class MyDataRestApplication {
 		SpringApplication.run(MyDataRestApplication.class, args);
 
                    int a = 100;
+
+                  String s = "Rooman";
+
 	}
 
 }
