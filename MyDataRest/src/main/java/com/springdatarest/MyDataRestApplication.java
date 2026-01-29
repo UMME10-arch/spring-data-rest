@@ -8,6 +8,8 @@ public class MyDataRestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MyDataRestApplication.class, args);
+
+                   int a = 100;
 	}
 
 }
