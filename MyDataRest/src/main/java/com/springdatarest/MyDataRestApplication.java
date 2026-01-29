@@ -11,7 +11,9 @@ public class MyDataRestApplication {
 
                    int a = 100;
 
+
                    double d = 15.9;
+                  String s = "Rooman";
 	}
 
 }
